@@ -1,0 +1,965 @@
+[
+  {
+    "ID": 1,
+    "Hop": "Admiral",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 14.75,
+    "Beta": 5.6,
+    "Notes": "Bittering hops derived from Wye Challenger. Good high-alpha bittering hops. Used for: Ales Aroma: Primarily for bittering Substitutes: Target, Northdown, Challenger"
+  },
+  {
+    "ID": 3,
+    "Hop": "Ahtanum",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 6,
+    "Beta": 5.25,
+    "Notes": "Distinctive aromatic hops with moderate bittering power from Washington. Used for: American ales and lagers Aroma: Distinctive floral and citrus aromas Substitutes: Amarillo, Cascade"
+  },
+  {
+    "ID": 5,
+    "Hop": "Amarillo",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 8.5,
+    "Beta": 6,
+    "Notes": "Unknown origin, but character similar to Cascade. Used for both bitterness and aroma. Used for: IPAs, Ales Aroma: Citrus, flowery Substitutes: Cascade, Centennial"
+  },
+  {
+    "ID": 133,
+    "Hop": "Apollo",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 17,
+    "Beta": 6.75,
+    "Notes": "Super high alpha variety from the Hopsteiner breeding program released in 2006. High alpha and low cohumulone makes it a great bittering hop. Adds a strong grapefruit/hop note if added late in boil. Substitutes: Nugget, Columbus, Tomahawk, Zeus"
+  },
+  {
+    "ID": 137,
+    "Hop": "Aquila",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 6.5,
+    "Beta": 3,
+    "Notes": "Aroma hops developed in 1988. Limited use due to high cohumolone. Used for: Aroma hops Substitutes: Cluster No longer commercially grown."
+  },
+  {
+    "ID": 139,
+    "Hop": "Atlas",
+    "Origin": "Slovenia",
+    "Type": "Bittering",
+    "Alpha": 9,
+    "Beta": 3.7,
+    "Notes": "A cross between Brewers Gold and Slovenian wild hops. Primarily a bittering hop with pleasant bitterness and aroma. Used for: Bittering ales, lagers Substitutes: Brewers Gold"
+  },
+  {
+    "ID": 141,
+    "Hop": "Aurora",
+    "Origin": "Slovenia",
+    "Type": "Both",
+    "Alpha": 8.25,
+    "Beta": 3.5,
+    "Notes": "Also called Super Styrian. This is a hybrid between Northern Brewer and TG. It has a pleasant hoppy aroma similar to Styrian Goldings but lighter. Used for: Often mixed with other hops in lagers. Substitutes: Styrian Goldings"
+  },
+  {
+    "ID": 143,
+    "Hop": "Australian Summer",
+    "Origin": "Australia",
+    "Type": "Aroma",
+    "Alpha": 6,
+    "Beta": 5.45,
+    "Notes": "Aroma hop from Australia. It features balanced citrus and stone fruit flavors, but showcases distinct apricot and melon characteristics in dry hopping applications."
+  },
+  {
+    "ID": 156,
+    "Hop": "Banner",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 10,
+    "Beta": 4,
+    "Notes": "Bittering hops developed in 1988. Use largely discontinued due to poor storage. Used for: U.S. style ales Substitutes: Cluster"
+  },
+  {
+    "ID": 166,
+    "Hop": "Bobek",
+    "Origin": "Slovenia",
+    "Type": "Both",
+    "Alpha": 5.25,
+    "Beta": 5,
+    "Notes": "Also called Styrian Golding B - a cross between Northern Brewer and a TG seedling. Pleasant hop aroma and flavor. Used for: Moderate English ales and lagers/Pilsners Substitutes: Northern Brewer"
+  },
+  {
+    "ID": 168,
+    "Hop": "Bramling Cross",
+    "Origin": "United Kingdom",
+    "Type": "Aroma",
+    "Alpha": 6,
+    "Beta": 3,
+    "Notes": "Developed in 1927 from commercial Goldings and wild hop variety. Used for: ESB, Bitters, Pale Ale Aroma: Mild, fruity, currant aroma. Substitutes: East Kent Goldings, Progress, Whitbred"
+  },
+  {
+    "ID": 170,
+    "Hop": "Bravo",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 15.5,
+    "Beta": 3.5,
+    "Notes": "A second generation super high alpha hops from the Hopsteiner breeding program released in 2006. Good bittering hop. Aroma: Fruity and floral aroma. Substitutes: Columbus, Zeus, Tomahawk"
+  },
+  {
+    "ID": 172,
+    "Hop": "Brewer's Gold",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 8,
+    "Beta": 3.7,
+    "Notes": "Traditional bittering hops for English ales and heavy German lagers. Aroma: Sharp bittering hop Substitutes: Northern Brewer, Galena, Chinook, Eroica Example: Pete's Wicked Ale"
+  },
+  {
+    "ID": 175,
+    "Hop": "Bullion",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 8,
+    "Beta": 4.5,
+    "Notes": "Used in strong dark English ales, some heavy German lagers. Aroma: Strong, pungent and bitter in flavor. Blackcurrant flavor. Substitutes: Chinook, Eroica, Brewer's Gold"
+  },
+  {
+    "ID": 183,
+    "Hop": "Cascade",
+    "Origin": "U.S.",
+    "Type": "Both",
+    "Alpha": 5.5,
+    "Beta": 6,
+    "Notes": "A hops with Northern Brewers Heritage Used for: American ales and lagers Aroma: Strong spicy, floral, grapefruit character Substitutes: Centennial Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale"
+  },
+  {
+    "ID": 193,
+    "Hop": "Celeia",
+    "Origin": "Slovenia",
+    "Type": "Both",
+    "Alpha": 4.5,
+    "Beta": 2.6,
+    "Notes": "A dual purpose hops that is a hybrid between Savinjski Golding, Aurora and Slovenian wild hops. Similar in aroma to Saaz. Used for: Light lagers, Pilsners, Belgian ales. Substitutes: Saaz, Styrian Goldings"
+  },
+  {
+    "ID": 200,
+    "Hop": "Centennial",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 10,
+    "Beta": 4,
+    "Notes": "Used for: General purpose bittering, aroma in American ales and Wheats Aroma: Floral, citrus aroma, spicy, clean bittering flavor Substitutes: Galena, Eroica, Nugget, Bullion Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot"
+  },
+  {
+    "ID": 315,
+    "Hop": "Challenger",
+    "Origin": "United Kingdom",
+    "Type": "Aroma",
+    "Alpha": 7.5,
+    "Beta": 4,
+    "Notes": "Variant of Northern Brewers heritage Used for: Both aroma and bittering for ales and lagers Aroma: Fruity in flavor, spicy aroma, blends well Substitutes: N/A"
+  },
+  {
+    "ID": 390,
+    "Hop": "Chelan",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13.25,
+    "Beta": 9.25,
+    "Notes": "High alpha variety from the Haas breeding program released in 2004. It is a variant of Galena and very similar in profile to Galena. Aroma: Pleasant citrus notes Substitutes: Galena"
+  },
+  {
+    "ID": 392,
+    "Hop": "Chinook",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 3.6,
+    "Notes": "Strong versatile bittering hop Used for: Ales, porters, stouts Aroma: Heavy and spicy aroma Substitutes: Galena, Eroica, Nugget, Bullion Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale"
+  },
+  {
+    "ID": 413,
+    "Hop": "Citra",
+    "Origin": "U.S.",
+    "Type": "Both",
+    "Alpha": 12,
+    "Beta": 4,
+    "Notes": "Special aroma hops released in 2007. Imparts high alpha/oil content but low cohumulone. Aroma: Adds interesting citrus and tropical fruit character to the beer. Substitutes: Unknown"
+  },
+  {
+    "ID": 444,
+    "Hop": "Cluster",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 7,
+    "Beta": 4.8,
+    "Notes": "Used for: General purpose bittering hop Aroma: Floral, slightly spicy. Sharp aroma and sharp flavor Substitutes: Eroica, Galena"
+  },
+  {
+    "ID": 492,
+    "Hop": "Columbia",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 5.5,
+    "Beta": 3,
+    "Notes": "Sibling of Williamette hops. Used for: All English Ales Aroma: Close to Fuggles Substitutes: Fuggles, Williamette"
+  },
+  {
+    "ID": 494,
+    "Hop": "Columbus (Tomahawk)",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 14,
+    "Beta": 5,
+    "Notes": "Engineered Centennial Substitute - High alpha bittering hops. Used for: Bittering, flavor, aroma - IPA, American Pale Ale, Stout, Lager Aroma: Pungent, spicy. Strongly aromatic, but clean tasting bitterness Substitutes: Centennial"
+  },
+  {
+    "ID": 503,
+    "Hop": "Comet",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 9.5,
+    "Beta": 4,
+    "Notes": "Very bitter hops - use sparingly with other hops Used for: Bittering only Substitutes: N/A"
+  },
+  {
+    "ID": 505,
+    "Hop": "Crystal",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 3.5,
+    "Beta": 5.2,
+    "Notes": "Used for: Aroma and finishing hops for Lagers Aroma: Clean, mild, pleasant and slightly spicy Substitutes: Hallertauer, Mount Liberty"
+  },
+  {
+    "ID": 566,
+    "Hop": "El Dorado",
+    "Origin": "U.S.",
+    "Type": "Both",
+    "Alpha": 15,
+    "Beta": 7.5,
+    "Notes": "A hop from Washington's Moxee Valley, a sub-region of the Yakima Valley. This hop has an intense, candylike aroma, along with cherries and other fruits."
+  },
+  {
+    "ID": 572,
+    "Hop": "Eroica",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 4.8,
+    "Notes": "Used for: General purpose bittering for ales, porters, stouts Aroma: Clean bittering hop, very bitter Substitutes: Galena, Northern Brewer, Chinook Examples: Blackhook Porter, Ballard Bitter"
+  },
+  {
+    "ID": 582,
+    "Hop": "Feux Coeur Francais",
+    "Origin": "Australia",
+    "Type": "Bittering",
+    "Alpha": 14,
+    "Beta": 6,
+    "Notes": "Rare, high alpha hops from Australia with genetic roots in the Burgundy region of France. It was adopted to the Victoria region of Australia and introduced in 2010."
+  },
+  {
+    "ID": 584,
+    "Hop": "First Gold",
+    "Origin": "United Kingdom",
+    "Type": "Both",
+    "Alpha": 7.5,
+    "Beta": 3.5,
+    "Notes": "Dwarf hop with English Golding character Used for: Ales, ESB Aroma: Similar to other Golding varieties, spicy Substitutes: East Kent Goldings, Crystal"
+  },
+  {
+    "ID": 601,
+    "Hop": "Fuggles",
+    "Origin": "United Kingdom",
+    "Type": "Aroma",
+    "Alpha": 4.5,
+    "Beta": 2,
+    "Notes": "Used for: General purpose bittering/aroma for English Ales, Dark Lagers Aroma: Mild, soft, grassy, floral aroma Substitute: East Kent Goldings, Williamette Examples: Samuel Smith's Pale Ale, Old Peculiar, Thomas Hardy's Ale"
+  },
+  {
+    "ID": 607,
+    "Hop": "Galaxy",
+    "Origin": "Australia",
+    "Type": "Bittering",
+    "Alpha": 14,
+    "Beta": 5.9,
+    "Notes": "A high alpha, dual purpose seedless hops with a unique hop aroma. It can be used either for bittering or as a late hop addition to provide a flavor of citrus and passionfruit to the finished beer. Aroma: Intense, pleasant, unique."
+  },
+  {
+    "ID": 609,
+    "Hop": "Galena",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 12.5,
+    "Beta": 8,
+    "Notes": "Used for: General bittering hops for all beers Aroma: Strong, clean, balanced bittering Substitutes: Eroica, Northern Brewer, Cluster, Chinook Examples: Catamount Porter"
+  },
+  {
+    "ID": 624,
+    "Hop": "Glacier",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 5.6,
+    "Beta": 7.6,
+    "Notes": "Genetic mix of at least 8 hops including Elsasser, Brewers Gold, N Brewer, Bullion, Early Green, and others...released in 2000. Used for: Aroma Aroma: Excellent, hoppy Substitutes: N/A"
+  },
+  {
+    "ID": 626,
+    "Hop": "Goldings, B.C.",
+    "Origin": "Canada",
+    "Type": "Aroma",
+    "Alpha": 5,
+    "Beta": 3.2,
+    "Notes": "Used for: Bittering and finishing British ales, bitters, porters and stouts. Aroma: Spicy, floral, rounded mild aroma. Substitutes: East Kent Goldings, Fuggles"
+  },
+  {
+    "ID": 628,
+    "Hop": "Goldings, East Kent",
+    "Origin": "United Kingdom",
+    "Type": "Aroma",
+    "Alpha": 5,
+    "Beta": 3.5,
+    "Notes": "Used for: General purpose hops for bittering/finishing all British Ales Aroma: Floral, aromatic, earthy, slightly sweet spicy flavor Substitutes: Fuggles, BC Goldings Examples: Bass Pale Ale, Fullers ESB, Samual Smith's Pale Ale"
+  },
+  {
+    "ID": 630,
+    "Hop": "Green Bullet",
+    "Origin": "New Zealand",
+    "Type": "Bittering",
+    "Alpha": 13.5,
+    "Beta": 7,
+    "Notes": "Bittering hops from New Zealand developed in 1972 Used for: Australian-style ales and lagers. Aroma: Floral, raisin aroma. Substitutes: Styrian Goldings"
+  },
+  {
+    "ID": 632,
+    "Hop": "Greenburg",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 5.2,
+    "Beta": 7.2,
+    "Notes": "American hop variety from southern Idaho. Fruity flavor with a touch of wood flavor. Popular with microbreweries."
+  },
+  {
+    "ID": 670,
+    "Hop": "Hallertau Mittelfruh",
+    "Origin": "",
+    "Type": "",
+    "Alpha": 3.75,
+    "Beta": 0,
+    "Notes": ""
+  },
+  {
+    "ID": 691,
+    "Hop": "Hallertauer",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 4.8,
+    "Beta": 4,
+    "Notes": "Used for: German Ales, German/US/Canadian Lagers, Wheat Beers Aroma: Pleasant, mild spicy flavor, clean, neutral flavor Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh"
+  },
+  {
+    "ID": 695,
+    "Hop": "Hallertauer Hersbrucker",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 4,
+    "Beta": 6,
+    "Notes": "Used for: German style lagers and wheat beers Aroma: Noble, pleasant, clean flavor Substitutes: Mt. Hood, Liberty, Hallertauer, Mittelfrueh Examples: Wheathook Wheaten Ale"
+  },
+  {
+    "ID": 697,
+    "Hop": "Hallertauer Mittelfrueh",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 4,
+    "Beta": 4.6,
+    "Notes": "Used for: Continental Lagers, German Ales/Lagers, US Lagers Aroma: Pleasant, assertive, mild herbal aroma Substitutes: Hallertauer, Mt. Hood, Liberty, Crystal Examples: Sam Adams Boston Lager, Sam Adams Boston Lightship"
+  },
+  {
+    "ID": 706,
+    "Hop": "Hallertauer, New Zealand",
+    "Origin": "New Zealand",
+    "Type": "Both",
+    "Alpha": 8.5,
+    "Beta": 3,
+    "Notes": "Hallertauer variant with classic aroma and ability to retain clean taste. Bred from German Hallertauer Mittelfrueh Used for: Australian Ales Substitutes: Hallertauer Mittelfrueh"
+  },
+  {
+    "ID": 716,
+    "Hop": "Herald",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 12,
+    "Beta": 5.2,
+    "Notes": "Dwarf variety bred at Wye College (mid 1990s) Used for: Bittering of ales Aroma: Strong, acceptable Substitutes: High alpha English bittering hops"
+  },
+  {
+    "ID": 724,
+    "Hop": "Horizon",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 12,
+    "Beta": 7.5,
+    "Notes": "Good dual purpose hops derived from Nugget hops in Oregon (1970) Used for: All purpose Ales, Lagers Aroma: Pleasant, hoppy Substitutes: Magnum or other high alpha hops"
+  },
+  {
+    "ID": 745,
+    "Hop": "Kent Goldings",
+    "Origin": "UK",
+    "Type": "Bittering",
+    "Alpha": 4.75,
+    "Beta": 2,
+    "Notes": ""
+  },
+  {
+    "ID": 747,
+    "Hop": "Liberty",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 4.3,
+    "Beta": 3.5,
+    "Notes": "Used for: German style lagers Aroma: Fine, mild, slightly spicy flavor Substitutes: Hallertau, Mt Hood, Crystal Examples: Pete's Wicked Lager"
+  },
+  {
+    "ID": 750,
+    "Hop": "Lublin",
+    "Origin": "Poland",
+    "Type": "Bittering",
+    "Alpha": 5,
+    "Beta": 3,
+    "Notes": "Version of Saaz grown in Poland - also called \"Lubelski\" Used for: Bohemian lagers and Pilsners Aroma: Noble, mild flavor similar to Saaz Substitutes: Saaz, Tettnanger"
+  },
+  {
+    "ID": 752,
+    "Hop": "Magnum",
+    "Origin": "Germany",
+    "Type": "Bittering",
+    "Alpha": 14,
+    "Beta": 6.5,
+    "Notes": "German Hallertauer hybrid, widely used in Germany Used for: German ales and lagers Aroma: Good aroma and stable spicy flavor Substitutes: N/A"
+  },
+  {
+    "ID": 762,
+    "Hop": "Marynka",
+    "Origin": "Poland",
+    "Type": "Bittering",
+    "Alpha": 10.5,
+    "Beta": 11.4,
+    "Notes": "Bittering hops with high aroma. Primarily for use in Pilsner, lagers, ales or wheats. Comparable to English Goldings or Chinook. Used for: Lager, ales Substitutes: Chinook, English Golding"
+  },
+  {
+    "ID": 770,
+    "Hop": "Millenium",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 14.25,
+    "Beta": 5.7,
+    "Notes": "Originally developed as part of the Haas breeding program in the US, Millenium entered production in 2000. It is a very high alpha hops used for bittering. Aroma: Mild, herbal Substitutes: Columbus, Tomahawk, Zeus and Nugget"
+  },
+  {
+    "ID": 773,
+    "Hop": "Mosaic",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 12.7,
+    "Beta": 3.5,
+    "Notes": "Related to Simcoe. A complex array of tropical fruit, citrus, berry, herbal, earthy and pine characteristics."
+  },
+  {
+    "ID": 800,
+    "Hop": "Motueka",
+    "Origin": "New Zealand",
+    "Type": "Aroma",
+    "Alpha": 7,
+    "Beta": 5.25,
+    "Notes": "Flexible hop developed from Saaz. Has notable character and aroma, balanced bitterness, and unique flavor. Used for: Lagers, Belgian Ales and Bohemian Pilsner. Substitutes: Saaz"
+  },
+  {
+    "ID": 804,
+    "Hop": "Mt. Hood",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 6,
+    "Beta": 6.3,
+    "Notes": "Used for: European Lagers, finishing Aroma: Mild with a clean aroma, neutral flavor. Somewhat pungent. Substitutes: Hallertauer, Liberty, Crystal"
+  },
+  {
+    "ID": 808,
+    "Hop": "Nelson Sauvin",
+    "Origin": "New Zealand",
+    "Type": "Bittering",
+    "Alpha": 12,
+    "Beta": 7,
+    "Notes": "Triploid variety bred from \"Smoothcone\" released in 2000. Oil profile said to taste like \"fresh crushed gooseberries\" similar to Sauvignon Blanc, giving it its name. Very fruity, citrusy - use in moderation. Used for: Pale ale, Super Premiums. Substitutes: None"
+  },
+  {
+    "ID": 810,
+    "Hop": "Newport",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13.5,
+    "Beta": 6,
+    "Notes": "High alpha hops released in 2002 as a potential replacement for Galena. Note that these hops have a large alpha range of 9.8%-17% so check the package! Fairly pungent. Used for: Primarily used for bittering in ales, stouts, barley wine. Substitutes: Galena"
+  },
+  {
+    "ID": 816,
+    "Hop": "Northdown",
+    "Origin": "United Kingdom",
+    "Type": "Both",
+    "Alpha": 8.5,
+    "Beta": 5.5,
+    "Notes": "Variation of Northern Brewers hops grown in England. Used for: Bittering in English ales Aroma: Good bittering, flavor and aroma Substitutes: Northern Brewer"
+  },
+  {
+    "ID": 862,
+    "Hop": "Northern Brewer",
+    "Origin": "Germany",
+    "Type": "Both",
+    "Alpha": 8.5,
+    "Beta": 4,
+    "Notes": "Also called Hallertauer Northern Brewers Used for: Bittering and finishing both ales and lagers of all kinds Aroma: Fine, dry, clean bittering hop. Unique flavor. Substitutes: Hallertauer Mittelfrueh, Hallertauer Examples: Anchor Steam, Old Peculiar,"
+  },
+  {
+    "ID": 913,
+    "Hop": "Nugget",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 5,
+    "Notes": "Used for: Bittering hops for ales Aroma: Strong bittering, heavy, herbal aroma, spicy Substitutes: Chinook Examples: Sierra Nevada Porter"
+  },
+  {
+    "ID": 919,
+    "Hop": "Olympic",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 11.5,
+    "Beta": 5.5,
+    "Notes": "Olympic is a high alpha hops released by Washington Agricultural Expt Station in 1983. Heritage is from Brewers Gold and Fuggles. Aroma: Spicy, citrus aroma Substitutes: Brewers Gold"
+  },
+  {
+    "ID": 921,
+    "Hop": "Opal",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 6.5,
+    "Beta": 4.5,
+    "Notes": "New variety from the hop research center in Hull. Used for: Aroma hops in continental styles Aroma: High aroma hops with hints of spice and subtle citrus. Substitutes: Unknown"
+  },
+  {
+    "ID": 927,
+    "Hop": "Orion",
+    "Origin": "Germany",
+    "Type": "Both",
+    "Alpha": 7.25,
+    "Beta": 3.7,
+    "Notes": "Cross between Perle and an experimental variety Used for: Bittering and aroma Aroma: Pleasant, hoppy Substitutes: Perle"
+  },
+  {
+    "ID": 929,
+    "Hop": "Pacific Gem",
+    "Origin": "New Zealand",
+    "Type": "Bittering",
+    "Alpha": 15,
+    "Beta": 8.2,
+    "Notes": "High alpha smoothcone cross developed at DSIR in 1987. Used for: Bittering - produces a cask-oak woody flavor. Aroma: Pleasant - some blackberry aroma. Substitutes: Bullion"
+  },
+  {
+    "ID": 931,
+    "Hop": "Pacific Jade",
+    "Origin": "New Zealand",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 7.5,
+    "Notes": "High alpha bittering hops that delivers a bold herbal infusion of fresh citrus with some black pepper flavor. Citrus aroma and flavor tempers ales and may be used as a finishing hops. Used for: Ales, lagers Substitutes: N/A"
+  },
+  {
+    "ID": 934,
+    "Hop": "Pacifica",
+    "Origin": "New Zealand",
+    "Type": "Aroma",
+    "Alpha": 5.5,
+    "Beta": 6,
+    "Notes": "Aroma hop developed from Hallertauer Mittelfrueh in New Zealand (1994). Blend of old and new world taste including Orange marmalade and citrus aroma notes when used in late addition. Soft finish if used in bittering. Substitutes: Chinook, Hallertauer Mittelfrueh"
+  },
+  {
+    "ID": 936,
+    "Hop": "Palisade",
+    "Origin": "U.S.",
+    "Type": "Both",
+    "Alpha": 7.5,
+    "Beta": 7,
+    "Notes": "Also called YCR-4, Palisade is an aroma variety bread by Yakima Chief Ranches. It has both aromatic and moderate bittering properties. Substitutes: Willamette"
+  },
+  {
+    "ID": 938,
+    "Hop": "Perle",
+    "Origin": "Germany",
+    "Type": "Bittering",
+    "Alpha": 8,
+    "Beta": 4.75,
+    "Notes": "Used for: General purpose bittering for US and German ales, lagers Aroma: Slightly spicy, pleasant aroma, minty Substitutes: Chinook, Galena, Northern Brewer Examples: Sierra Nevada Pale Ale, Pale Bock"
+  },
+  {
+    "ID": 1017,
+    "Hop": "Phoenix",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 8,
+    "Beta": 4.6,
+    "Notes": "Seedling derived from Wye Yoeman. Used for: Ales Aroma: Similar to Wye Challenger hops Substitutes: Challenger, East Kent Golding, Northdown"
+  },
+  {
+    "ID": 1019,
+    "Hop": "Pilgrim",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 11.5,
+    "Beta": 4.7,
+    "Notes": "New variety from Wye College in 2001. High Selinene content. Used for: Bittering Substitutes: N/A"
+  },
+  {
+    "ID": 1028,
+    "Hop": "Pilot",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 11.5,
+    "Beta": 3,
+    "Notes": "A very new hops introduced in 2002 by Charles Faram & Co Ltd. Mild herbal flavor with lemon hints and fresh mowed grass flavor. Used for: Primarily for bittering in APAs. Rare."
+  },
+  {
+    "ID": 1030,
+    "Hop": "Pioneer",
+    "Origin": "United Kingdom",
+    "Type": "Both",
+    "Alpha": 9,
+    "Beta": 3.75,
+    "Notes": "Bred from Wye Omega at Wye College in the UK Used for: ESB, English Ales Aroma: Mild English hop aroma Substitutes: East Kent Goldings"
+  },
+  {
+    "ID": 1032,
+    "Hop": "Premiant",
+    "Origin": "Czech Republic",
+    "Type": "Both",
+    "Alpha": 7.5,
+    "Beta": 4.5,
+    "Notes": "A cross between Czech aroma and bittering varieties. Dual purpose though its aroma is not as strong as some other Czech hops. Use in beers where a moderate hoppy aroma is needed. Used for: Moderate ales, lagers Substitutes: Saaz"
+  },
+  {
+    "ID": 1034,
+    "Hop": "Pride of Ringwood",
+    "Origin": "Australia",
+    "Type": "Bittering",
+    "Alpha": 9,
+    "Beta": 5.75,
+    "Notes": "Used for: General purpose bittering hops for Australian beers Aroma: Moderate citric aroma, clean bittering flavor Substitutes: Cluster, Galena"
+  },
+  {
+    "ID": 1036,
+    "Hop": "Progress",
+    "Origin": "United Kingdom",
+    "Type": "Aroma",
+    "Alpha": 6.25,
+    "Beta": 2.1,
+    "Notes": "Used for: Bittering and aroma in English Ales Aroma: Similar to Fuggles, aromatic, slightly sweet Substitutes: Fuggles"
+  },
+  {
+    "ID": 1049,
+    "Hop": "Riwaka",
+    "Origin": "New Zealand",
+    "Type": "Aroma",
+    "Alpha": 5.25,
+    "Beta": 4.5,
+    "Notes": "Formerly called B-Saaz, this was developed from old line Saazer hops in New Zealand. Used for: New world pale ale, regional pilsners Aroma: Strong, hoppy. Some grapefruit and citrus character."
+  },
+  {
+    "ID": 1051,
+    "Hop": "Saaz",
+    "Origin": "Czech Republic",
+    "Type": "Aroma",
+    "Alpha": 4,
+    "Beta": 3.5,
+    "Notes": "Used for: Pilsners and Bohemian style lagers Aroma: Delicate, mild, clean, somewhat floral -- Noble hops Substitutes: Tettnanger, Lublin Examples: Pulsner Urquell"
+  },
+  {
+    "ID": 1084,
+    "Hop": "Santiam",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 6,
+    "Beta": 7,
+    "Notes": "Triploid aroma selection derived from Tettnang and Hallertauer (1997) Used for: Lager, U.S. Pale Ale, Pilsner Substitutes: German Tettnang, Spalt, Spalt Select"
+  },
+  {
+    "ID": 1086,
+    "Hop": "Saphir",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 3.5,
+    "Beta": 4.6,
+    "Notes": "A new noble breed as an alternative to Hallertau Mittelfrueh in an attempt to make it more disease resistant and commercially viable. Similar in character to Hallertau varieties. Used for: Pilsners, lagers, Belgian whites. Substitutes: Hallertau Mittelfrueh"
+  },
+  {
+    "ID": 1088,
+    "Hop": "Satus",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13.25,
+    "Beta": 8.75,
+    "Notes": "High alpha bittering hops from Yakima that is similar to Galena. Of recent origin. Substitutes: Galena"
+  },
+  {
+    "ID": 1090,
+    "Hop": "Select Spalt",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 4.75,
+    "Beta": 3.5,
+    "Notes": "Bred from Hallertauer Mittelfrueh and Spalt in Germany. Spalt character. Used for: Lager, Pilsner, Noble aroma hop substitute Aroma: Very fine, spalt aroma Substitutes: Spalter, Saaz, Tettnang"
+  },
+  {
+    "ID": 1095,
+    "Hop": "Simcoe",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 4.5,
+    "Notes": "High alpha bittering hops with good aroma characteristics. Used for: IPAs Aroma: Citrus and pine-like aroma Substitutes: N/A"
+  },
+  {
+    "ID": 1105,
+    "Hop": "Sladek",
+    "Origin": "Czech Republic",
+    "Type": "Aroma",
+    "Alpha": 5,
+    "Beta": 7.5,
+    "Notes": "Hybrid variety of Saaz origin with noble hoppy taste and aroma. Generally recommended for middle-hopping about 20 min before end of boil. Not a replacement for Saaz, but complimentary in Lagers. Used for: Lager Substitutes: Saaz"
+  },
+  {
+    "ID": 1107,
+    "Hop": "Sorachi Ace",
+    "Origin": "Japan",
+    "Type": "Bittering",
+    "Alpha": 12,
+    "Beta": 6,
+    "Notes": "Developed by Sapporo Breweries and used in their beers - has a Brewer's gold and Saaz heritage. Reported to be lemony in flavor and aroma. Used for: Saison, IPA or other beer where lemon/citrus is desirable. Substitutes: Admiral, Cascade"
+  },
+  {
+    "ID": 1109,
+    "Hop": "Southern Cross",
+    "Origin": "New Zealand",
+    "Type": "Both",
+    "Alpha": 13,
+    "Beta": 6.2,
+    "Notes": "Dual purpose with \"European\" flavor - from DSIR in 1994 Used for: European flavor bittering/aroma Aroma: Spicy, lemony, slight pine and wood flavors Substitutes: N/A"
+  },
+  {
+    "ID": 1111,
+    "Hop": "Spalter",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 4.5,
+    "Beta": 4,
+    "Notes": "Used for: Traditional German bittering and aroma hops, Altbiers, Lagers Aroma: Mild, pleasant, slight spice Substitutes: Saaz, Tettnang Examples: Dusseldorf Altbiers"
+  },
+  {
+    "ID": 1113,
+    "Hop": "Sterling",
+    "Origin": "U.S.",
+    "Type": "Both",
+    "Alpha": 7.5,
+    "Beta": 5,
+    "Notes": "Flavor is a cross between Saaz and Mt Hood Used for: Lagers, Ales, Pilsners Aroma: Herbal, spicy, some floral and citrus hints Substitutes: Saaz, Polish Lublin"
+  },
+  {
+    "ID": 1115,
+    "Hop": "Sticklebract",
+    "Origin": "New Zealand",
+    "Type": "Both",
+    "Alpha": 13.5,
+    "Beta": 8,
+    "Notes": "High alpha hops from DSIR research first released in 1972. Some of the same qualities as Northern Brewer Used for: Dual purpose Aroma: Pine-like with a hint of citrus Substitutes: Northern Brewer"
+  },
+  {
+    "ID": 1118,
+    "Hop": "Strisslespalt",
+    "Origin": "France",
+    "Type": "Aroma",
+    "Alpha": 4,
+    "Beta": 3.8,
+    "Notes": "Aroma hops used widely in the Alsace area of France. Used for: Pilsner, lager, wheat Aroma: Medium intensity, pleasant, hoppy Substitutes: Mt Hood, Crystal, Hallertauer Hersbruck"
+  },
+  {
+    "ID": 1124,
+    "Hop": "Styrian Goldings",
+    "Origin": "Slovenia",
+    "Type": "Aroma",
+    "Alpha": 5.4,
+    "Beta": 2.9,
+    "Notes": "A seedless version of Fuggles grown in Slovenia Used for: Bittering, finishing for a wide variety of European Beers. Popular in Europe and the United Kingdom Aroma: Mild, soft, grassy, floral aroma. Similar to Fuggles. Substitutes: Fuggles, Williamette"
+  },
+  {
+    "ID": 1130,
+    "Hop": "Summit",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 17,
+    "Beta": 5,
+    "Notes": "High alpha variety bred by American Dwarf Hop Assoc. Can be grown commercially on a low trellis. Aroma: Strong citrus, grapefruit notes. Substitutes: Warrior, Millenium, Columbus, Tomahawk, Zeus"
+  },
+  {
+    "ID": 1143,
+    "Hop": "Sun",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 14,
+    "Beta": 5.5,
+    "Notes": "A very high alpha bittering hops from Yakima Valley, Washington Used for: Bittering (intense) Aroma: Pleasant, hoppy Substitutes: Other very high alpha US hops"
+  },
+  {
+    "ID": 1145,
+    "Hop": "Super Alpha",
+    "Origin": "New Zealand",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 8,
+    "Notes": "High alpha hops released in 1976 by DSIR. European in character - clean crisp flavor and resin aroma. Used for: European Styles, General purpose bittering Aroma: Pleasant, resin like aroma Substitutes: N/A"
+  },
+  {
+    "ID": 1147,
+    "Hop": "Super Galena",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 14.5,
+    "Beta": 9,
+    "Notes": "Super high alpha hops from Hopsteiner breeding program released in 2006. High alpha and beta content - comparable to Galena in bitterness and aroma profile. Used for: Primarily for bitterness. Substitutes: Galena"
+  },
+  {
+    "ID": 1149,
+    "Hop": "Super Pride",
+    "Origin": "Australia",
+    "Type": "Bittering",
+    "Alpha": 14.25,
+    "Beta": 6.7,
+    "Notes": "A high alpha variation of the Pride of Ringwood hop variety. Features mild aromas, higher alpha content and low cohumulone levels. Used for: Primarily for bittering. Substitutes: Pride of Ringwood"
+  },
+  {
+    "ID": 1151,
+    "Hop": "Target",
+    "Origin": "United Kingdom",
+    "Type": "Bittering",
+    "Alpha": 11,
+    "Beta": 5,
+    "Notes": "Used for: English ales and lagers Aroma: Robust aroma and flavor Substitutes: East Kent Goldings"
+  },
+  {
+    "ID": 1199,
+    "Hop": "Tettnang",
+    "Origin": "Germany",
+    "Type": "Aroma",
+    "Alpha": 4.5,
+    "Beta": 3.5,
+    "Notes": "Used for: German ales, lagers and wheat beer Aroma: Noble, mild, fine, slightly spicy Substitutes: Saaz, Spalt Examples: Sam Adams Octoberfest, Anderson Valley ESB"
+  },
+  {
+    "ID": 1201,
+    "Hop": "Tillicum",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 13.25,
+    "Beta": 9.9,
+    "Notes": "High alpha and high beta hops developed though Haas breeding program and released in 1995. Daughter variety of Galena and related to Chelan - so similar to both. Substitutes: Galena, Chelan"
+  },
+  {
+    "ID": 1203,
+    "Hop": "Tomahawk",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 15.5,
+    "Beta": 4.5,
+    "Notes": "Part of the Columbus/Tomahak/Zeus (CTZ) group of super high alpha hops. Together these make up 1/4 of US hop acreage. Used for: High alpha hops used primarily for commercial bittering. Substitutes: Tomahawk, Zeus, Nugget, Galena, Chinook"
+  },
+  {
+    "ID": 1205,
+    "Hop": "Topaz",
+    "Origin": "Australia",
+    "Type": "Bittering",
+    "Alpha": 17,
+    "Beta": 6.5,
+    "Notes": "Very high alpha hop variety from Australia. Used for commercial production primarily for its high alpha acid content and high bitterness."
+  },
+  {
+    "ID": 1207,
+    "Hop": "Tradition",
+    "Origin": "Germany",
+    "Type": "Bittering",
+    "Alpha": 6,
+    "Beta": 4.5,
+    "Notes": "Close descendant of Hallertauer Mittelfrueh bred for high yield. Used for: Lager, Pilsner, Bock, some Weizens Aroma: Fine - similar to Hallertauer Mittelfrueh Substitutes: Hallertauer Mittelfrueh, Liberty, Ultra"
+  },
+  {
+    "ID": 1214,
+    "Hop": "Ultra",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 3,
+    "Beta": 3.75,
+    "Notes": "Triploid seedling of the German Hallertauer Variety Used for: Lager, Pilsner, wheat, finishing hops in ales Aroma: Good to outstanding - some Saaz like qualities Substitutes: Liberty, Hallertauer, Tradition, Saaz"
+  },
+  {
+    "ID": 1216,
+    "Hop": "Vanguard",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 5.5,
+    "Beta": 6,
+    "Notes": "Diploid seedling made in 1982, released in 1997. Hallertau Mitterfrueh parentage. Used for: European lagers, ales Aroma: Strong aromatic notes Substitutes: Hallertauer Mittelfrueh"
+  },
+  {
+    "ID": 1218,
+    "Hop": "Victoria",
+    "Origin": "Australia",
+    "Type": "Bittering",
+    "Alpha": 13,
+    "Beta": 6.25,
+    "Notes": "Hi alpha hops grown in Victoria, Australia. It was created in 1976 and entered commercial production in the 1990s. Used for: Primarily for bittering due to high alpha content."
+  },
+  {
+    "ID": 1220,
+    "Hop": "Warrior",
+    "Origin": "U.S.",
+    "Type": "Both",
+    "Alpha": 15,
+    "Beta": 4.75,
+    "Notes": "High alpha hops from Yakima Chief Ranches. Also called YCR-5. Mild aroma and low cohumulone content - primarily for bittering. Used for: Ales, stouts Aroma: Neutral, clean, mild Substitutes: Nugget, Columbus, Magnum"
+  },
+  {
+    "ID": 1222,
+    "Hop": "Whitbread Golding Variety (WGV)",
+    "Origin": "United Kingdom",
+    "Type": "Aroma",
+    "Alpha": 6,
+    "Beta": 2.5,
+    "Notes": "Derived in England in 1911 from Bates Brewer. Some Golding characteristics, but lacking the full Goldings aroma. Used for: Ales Aroma: Pleasant, hoppy, slightly intense Substitutes: East Kent Goldings, Progress"
+  },
+  {
+    "ID": 1224,
+    "Hop": "Willamette",
+    "Origin": "U.S.",
+    "Type": "Aroma",
+    "Alpha": 5.5,
+    "Beta": 3.5,
+    "Notes": "Used for: Finishing American and British Ales Aroma: Mild, grassy, floral, slightly spicy Substitutes: Fuggles, East Kent Goldings Examples: Sierra Nevada Porter, Ballard Bitter"
+  },
+  {
+    "ID": 1235,
+    "Hop": "Zeus",
+    "Origin": "U.S.",
+    "Type": "Bittering",
+    "Alpha": 14,
+    "Beta": 5,
+    "Notes": "Super high alpha bittering hops developed in the Yakima Valley, WA Used for: Bittering, intense aroma Aroma: Aromatic, pleasant Substitutes: Other high alpha hops"
+  }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+          <RECIPES>
+  <RECIPE>
+    <NAME></NAME>
+    <VERSION></VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>BREWDOG</BREWER>
+    <ASST_BREWER/>
+    <BATCH_SIZE></BATCH_SIZE>
+    <BOIL_SIZE></BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY></EFFICIENCY>
+    <OG></OG>
+    <FG></FG>
+        <FERMENTABLES>
+          </FERMENTABLES>
+    <HOPS>
+          </HOPS>
+    <YEASTS>
+          </YEASTS>
+    <MISCS>
+      
+          </MISCS>
+    <MASH>
+      <NAME>Mash</NAME>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP></GRAIN_TEMP>
+      <MASH_STEPS>
+            </MASH_STEPS>
+    </MASH>
+          </RECIPE>
+</RECIPES>

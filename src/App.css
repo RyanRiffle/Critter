@@ -1,0 +1,29 @@
+html, body, .App, #root {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.App {
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+tbody > tr:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.hidden-tr {
+  display: none;
+}
+
+.hidden-tr:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+tr.active + .hidden-tr {
+  display: table-row;
+}

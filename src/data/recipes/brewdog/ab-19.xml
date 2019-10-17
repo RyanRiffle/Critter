@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                <RECIPES>
+  <RECIPE>
+    <NAME>AB: 19</NAME>
+    <VERSION></VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>BREWDOG</BREWER>
+    <ASST_BREWER/>
+    <BATCH_SIZE>20</BATCH_SIZE>
+    <BOIL_SIZE>25</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>0.00</EFFICIENCY>
+    <OG>0.0</OG>
+    <FG>0.0</FG>
+                <STYLE>
+        <NAME>Imperial Saison</NAME>
+        <CATEGORY>Imperial Saison</CATEGORY>
+        <CATEGORY_NUMBER></CATEGORY_NUMBER>
+        <STYLE_LETTER></STYLE_LETTER>
+        <STYLE_GUIDE></STYLE_GUIDE>
+        <VERSION>1</VERSION>
+        <TYPE></TYPE>
+        <OG_MIN></OG_MIN>
+        <OG_MAX></OG_MAX>
+        <FG_MIN></FG_MIN>
+        <FG_MAX></FG_MAX>
+        <IBU_MIN></IBU_MIN>
+        <IBU_MAX></IBU_MAX>
+        <COLOR_MIN></COLOR_MIN>
+        <COLOR_MAX></COLOR_MAX>
+      </STYLE>
+              <FERMENTABLES>
+          </FERMENTABLES>
+    <HOPS>
+          </HOPS>
+    <YEASTS>
+          </YEASTS>
+    <MISCS>
+      
+          </MISCS>
+    <MASH>
+      <NAME>Mash</NAME>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP></GRAIN_TEMP>
+      <MASH_STEPS>
+            </MASH_STEPS>
+    </MASH>
+          </RECIPE>
+</RECIPES>
