@@ -1,6 +1,6 @@
 {
   "name": "Critter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "homepage": "./",
   "author": {
@@ -11,6 +11,7 @@
     "brauhaus": "^1.1.1",
     "brauhaus-beerxml": "^1.0.0",
     "brewscribe": "^0.1.5",
+    "fuzzy-search": "^3.0.1",
     "grommet": "^2.7.9",
     "grommet-icons": "^4.3.0",
     "lowdb": "^1.0.0",
