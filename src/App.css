@@ -1,29 +1,22 @@
 html, body, .App, #root {
-  width: 100%;
+  
   height: 100%;
-  box-sizing: border-box;
 }
 
-.App {
-  
+#root {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	box-sizing: border-box;
 }
 
 a {
-  text-decoration: none;
+	text-decoration: none;
 }
 
-tbody > tr:hover {
-  background-color: rgba(0, 0, 0, 0.05);
-}
-
-.hidden-tr {
-  display: none;
-}
-
-.hidden-tr:hover {
-  background-color: rgba(0, 0, 0, 0);
-}
-
-tr.active + .hidden-tr {
-  display: table-row;
+.bigger-font * {
+	font-size: 16px !important;
 }

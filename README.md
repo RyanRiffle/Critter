@@ -2,6 +2,8 @@
 
 Critter is yet another homebrew application. Use it to manage create recipes, look up ingredients, or just keep your head during brew day. There is still a lot of work to do, so major breaking changes will most likely happen.
 
+![Critter Screenshot](https://raw.githubusercontent.com/RyanRiffle/Critter/master/public/screenshot.png)
+
 ## Starting (Developer)
 
 ```bash
@@ -24,7 +26,7 @@ Please make sure to update tests as appropriate.
 ## Built With
 - Electron
 - React
-- Grommet
+- Evergreen
 - lowdb
 - brauhaus-beerxml
 - beermath

@@ -3329,31 +3329,23 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 4.75,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
-          "weight": 1.25,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Crystal 150",
-          "weight": 0.5,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.13,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         }
       ],
       "spices": [
@@ -3493,17 +3485,13 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.88,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Munich",
-          "weight": 0.63,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Crystal 150",
@@ -3690,10 +3678,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 3.63,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -3704,10 +3690,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.31,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         }
       ],
       "spices": [
@@ -3893,10 +3877,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -4012,10 +3994,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 11.25,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -4026,10 +4006,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.63,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Dark Crystal",
@@ -4201,10 +4179,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 8,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -4321,45 +4297,33 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 10,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Wheat",
-          "weight": 0.94,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Flaked Oats",
-          "weight": 1.88,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal 350",
-          "weight": 1.25,
           "yield": 72,
-          "color": 350,
-          "late": false
+          "color": 350
         },
         {
           "name": "Chocolate",
-          "weight": 0.94,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Black",
-          "weight": 0.94,
           "yield": 61,
-          "color": 500,
-          "late": false
+          "color": 500
         }
       ],
       "spices": [
@@ -4483,10 +4447,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.88,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Crystal 150",
@@ -4497,17 +4459,13 @@
         },
         {
           "name": "Special W",
-          "weight": 0.31,
           "yield": 74,
-          "color": 115,
-          "late": false
+          "color": 115
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.44,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Flaked Oats",
@@ -4518,10 +4476,8 @@
         },
         {
           "name": "Torrified Wheat",
-          "weight": 0.31,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -4645,17 +4601,13 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.94,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 0.94,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         },
         {
           "name": "Flaked Oats",
@@ -4666,10 +4618,8 @@
         },
         {
           "name": "Pale Crystal",
-          "weight": 1.25,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Dark Crystal",
@@ -4793,10 +4743,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 6.13,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Crystal 150",
@@ -4807,10 +4755,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.38,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Carafa Special Type 1",
@@ -4821,10 +4767,8 @@
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 0.13,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         }
       ],
       "spices": [
@@ -5019,10 +4963,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 1.88,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -5033,10 +4975,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 0.63,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Dark Crystal",
@@ -5054,24 +4994,18 @@
         },
         {
           "name": "Peated",
-          "weight": 0.13,
           "yield": 83,
-          "color": 3,
-          "late": false
+          "color": 3
         },
         {
           "name": "Amber",
-          "weight": 0.13,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         },
         {
           "name": "Brown",
-          "weight": 0.13,
           "yield": 70,
-          "color": 65,
-          "late": false
+          "color": 65
         }
       ],
       "spices": [
@@ -5180,10 +5114,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 9.25,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Wheat",
@@ -5201,10 +5133,8 @@
         },
         {
           "name": "Smoked Peat",
-          "weight": 0.13,
           "yield": 81,
-          "color": 4,
-          "late": false
+          "color": 4
         }
       ],
       "spices": [
@@ -5352,10 +5282,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 1.88,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Flaked Oats",
@@ -5373,10 +5301,8 @@
         },
         {
           "name": "Dark Crystal 350",
-          "weight": 0.94,
           "yield": 72,
-          "color": 350,
-          "late": false
+          "color": 350
         }
       ],
       "spices": [
@@ -5501,10 +5427,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Spring Blend",
-          "weight": 8.75,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -5522,10 +5446,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.11,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Chocolate",
@@ -5536,10 +5458,8 @@
         },
         {
           "name": "Brown",
-          "weight": 0.37,
           "yield": 70,
-          "color": 65,
-          "late": false
+          "color": 65
         },
         {
           "name": "Flaked Oats",
@@ -5669,10 +5589,8 @@
         },
         {
           "name": "Munich",
-          "weight": 1.25,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Amber",
@@ -5690,10 +5608,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.31,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         }
       ],
       "spices": [
@@ -5825,10 +5741,8 @@
         },
         {
           "name": "Chocolate",
-          "weight": 0.19,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Carafa Special Type 3",
@@ -5999,10 +5913,8 @@
         },
         {
           "name": "Carafa Special Type 2",
-          "weight": 1.88,
           "yield": 70,
-          "color": 425,
-          "late": false
+          "color": 425
         },
         {
           "name": "Flaked Oats",
@@ -6133,10 +6045,8 @@
         },
         {
           "name": "Extra Pale",
-          "weight": 2,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -6147,10 +6057,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 1.13,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         }
       ],
       "spices": [
@@ -6283,10 +6191,8 @@
       "fermentables": [
         {
           "name": "Maris Otter",
-          "weight": 6.56,
           "yield": 83,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Caramalt",
@@ -6311,10 +6217,8 @@
         },
         {
           "name": "Popcorn",
-          "weight": 0.01,
           "yield": 0,
-          "color": 0,
-          "late": false
+          "color": 0
         }
       ],
       "spices": [
@@ -6579,17 +6483,13 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 9,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Rye",
-          "weight": 0.63,
           "yield": 40,
-          "color": 3,
-          "late": false
+          "color": 3
         },
         {
           "name": "Amber",
@@ -6600,17 +6500,13 @@
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.88,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         },
         {
           "name": "Roasted Barley",
-          "weight": 0.25,
           "yield": 74,
-          "color": 300,
-          "late": false
+          "color": 300
         },
         {
           "name": "Chocolate",
@@ -6621,10 +6517,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.25,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         }
       ],
       "spices": [
@@ -6784,10 +6678,8 @@
         },
         {
           "name": "Brown",
-          "weight": 0.38,
           "yield": 70,
-          "color": 65,
-          "late": false
+          "color": 65
         },
         {
           "name": "Flaked Oats",
@@ -6926,17 +6818,13 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.2,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "DRC",
-          "weight": 0.2,
           "yield": 74,
-          "color": 115,
-          "late": false
+          "color": 115
         },
         {
           "name": "Flaked Oats",
@@ -7044,10 +6932,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 2.3,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Maris Otter",
@@ -7058,10 +6944,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.5,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         }
       ],
       "spices": [
@@ -7601,10 +7485,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.06,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Rye",
@@ -7924,10 +7806,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 2.5,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -7945,10 +7825,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.28,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Dark Crystal 350",
@@ -8064,10 +7942,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 3.69,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -8078,10 +7954,8 @@
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.06,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         },
         {
           "name": "Rye",
@@ -8221,10 +8095,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 4.88,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -8362,10 +8234,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 2.5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Pale Crystal",
@@ -8473,10 +8343,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 12.5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -8632,10 +8500,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.25,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Crystal 150",
@@ -8798,10 +8664,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.73,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Amber",
@@ -8812,10 +8676,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 0.52,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         }
       ],
       "spices": [
@@ -8940,10 +8802,8 @@
       "fermentables": [
         {
           "name": "Lager",
-          "weight": 6.63,
           "yield": 83,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Wheat",
@@ -9059,10 +8919,8 @@
       "fermentables": [
         {
           "name": "Pilsner",
-          "weight": 5.4,
           "yield": 83,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -9073,10 +8931,8 @@
         },
         {
           "name": "Amber",
-          "weight": 0.05,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         }
       ],
       "spices": [
@@ -9179,41 +9035,6 @@
       "_id": "75c37c04-892c-42c8-bced-10ba2b32daae"
     },
     {
-      "name": "",
-      "description": "Recipe description",
-      "author": "BREWDOG",
-      "boilSize": null,
-      "batchSize": null,
-      "servingSize": 0.355,
-      "steepEfficiency": 50,
-      "steepTime": 20,
-      "mashEfficiency": null,
-      "style": null,
-      "ibuMethod": "tinseth",
-      "fermentables": [],
-      "spices": [],
-      "yeast": [],
-      "mash": {
-        "name": "Mash",
-        "grainTemp": null,
-        "spargeTemp": 76,
-        "ph": null,
-        "notes": "",
-        "steps": []
-      },
-      "bottlingTemp": 0,
-      "bottlingPressure": 0,
-      "primaryDays": 14,
-      "primaryTemp": 20,
-      "secondaryDays": 0,
-      "secondaryTemp": 0,
-      "tertiaryDays": 0,
-      "tertiaryTemp": 0,
-      "agingDays": 14,
-      "agingTemp": 20,
-      "_id": "f78cb2aa-6cdb-4175-9dd2-3050f8c93fac"
-    },
-    {
       "name": "B-SIDES - BERLINER WEISSE WITH YUZU",
       "description": "Recipe description",
       "author": "BREWDOG",
@@ -9255,10 +9076,8 @@
       "fermentables": [
         {
           "name": "Propino Pale",
-          "weight": 1.63,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Wheat",
@@ -9269,17 +9088,13 @@
         },
         {
           "name": "Propino Pale",
-          "weight": 0.03,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Acidulated",
-          "weight": 0.03,
           "yield": 59,
-          "color": 3,
-          "late": false
+          "color": 3
         }
       ],
       "spices": [
@@ -9429,17 +9244,13 @@
         },
         {
           "name": "Cara Aroma",
-          "weight": 0.04,
           "yield": 75,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Caramunich",
-          "weight": 0.1,
           "yield": 72,
-          "color": 50,
-          "late": false
+          "color": 50
         },
         {
           "name": "Brown",
@@ -9457,10 +9268,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 0.07,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Munich",
@@ -9600,17 +9409,13 @@
       "fermentables": [
         {
           "name": "Propino Pale",
-          "weight": 5,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Dextrine",
-          "weight": 0.63,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Flaked Oats",
@@ -9753,10 +9558,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 4.38,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         }
       ],
       "spices": [
@@ -9904,10 +9707,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 1.25,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Rye",
@@ -10089,10 +9890,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.25,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -10257,10 +10056,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.63,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         }
       ],
       "spices": [
@@ -10607,10 +10404,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 2.5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -10783,10 +10578,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.42,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -11084,10 +10877,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.16,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Dark Crystal",
@@ -11331,10 +11122,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.63,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Rye",
@@ -11359,10 +11148,8 @@
         },
         {
           "name": "Special W",
-          "weight": 0.63,
           "yield": 74,
-          "color": 115,
-          "late": false
+          "color": 115
         },
         {
           "name": "Munich",
@@ -11735,10 +11522,8 @@
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.31,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         }
       ],
       "spices": [
@@ -11889,10 +11674,8 @@
         },
         {
           "name": "Acidulated",
-          "weight": 1.88,
           "yield": 59,
-          "color": 3,
-          "late": false
+          "color": 3
         },
         {
           "name": "Wheat",
@@ -11910,10 +11693,8 @@
         },
         {
           "name": "Special W",
-          "weight": 0.05,
           "yield": 74,
-          "color": 115,
-          "late": false
+          "color": 115
         }
       ],
       "spices": [
@@ -12104,10 +11885,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.48,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Dark Crystal",
@@ -12118,10 +11897,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.56,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Flaked Oats",
@@ -12139,17 +11916,13 @@
         },
         {
           "name": "Amber",
-          "weight": 0.25,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         },
         {
           "name": "Smoked Weyermann",
-          "weight": 0.06,
           "yield": 80,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -12393,10 +12166,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 6.88,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Wheat",
@@ -12421,10 +12192,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.75,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Chocolate",
@@ -12564,10 +12333,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 8.13,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Chocolate",
@@ -12578,10 +12345,8 @@
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 0,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         }
       ],
       "spices": [
@@ -12721,38 +12486,28 @@
         },
         {
           "name": "Pinhead Oats",
-          "weight": 0.36,
           "yield": 27,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "CaraHell",
-          "weight": 0.18,
           "yield": 74,
-          "color": 11,
-          "late": false
+          "color": 11
         },
         {
           "name": "Cara Aroma",
-          "weight": 0.18,
           "yield": 75,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Roasted",
-          "weight": 0.09,
           "yield": 63,
-          "color": 550,
-          "late": false
+          "color": 550
         },
         {
           "name": "Peated",
-          "weight": 0.09,
           "yield": 83,
-          "color": 3,
-          "late": false
+          "color": 3
         }
       ],
       "spices": [
@@ -12884,10 +12639,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 1.12,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Crystal 150",
@@ -12898,10 +12651,8 @@
         },
         {
           "name": "Chocolate",
-          "weight": 0.38,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Roasted Barley",
@@ -13087,10 +12838,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.7,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Munich",
@@ -13101,10 +12850,8 @@
         },
         {
           "name": "Chocolate",
-          "weight": 0.06,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         }
       ],
       "spices": [
@@ -13274,10 +13021,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 1.56,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Dark Crystal",
@@ -13302,10 +13047,8 @@
         },
         {
           "name": "Chocolate",
-          "weight": 0.63,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Roasted Barley",
@@ -13629,10 +13372,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.81,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Carafa Special Type 3",
@@ -13796,10 +13537,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 6,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -13831,10 +13570,8 @@
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 0.75,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         }
       ],
       "spices": [
@@ -14004,10 +13741,8 @@
         },
         {
           "name": "Smoked",
-          "weight": 0.25,
           "yield": 80,
-          "color": 3,
-          "late": false
+          "color": 3
         },
         {
           "name": "Crystal 150",
@@ -14266,10 +14001,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 1.6,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Wheat",
@@ -14396,10 +14129,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 5.5,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Extra Pale Maris Otter",
@@ -14586,10 +14317,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.44,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Dark Crystal",
@@ -14761,10 +14490,8 @@
         },
         {
           "name": "Black",
-          "weight": 0.13,
           "yield": 61,
-          "color": 500,
-          "late": false
+          "color": 500
         }
       ],
       "spices": [
@@ -14880,10 +14607,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.13,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Caramalt",
@@ -14998,10 +14723,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.3,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Dark Crystal",
@@ -15012,10 +14735,8 @@
         },
         {
           "name": "Smoked Weyermann",
-          "weight": 1.8,
           "yield": 80,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Flaked Oats",
@@ -15026,10 +14747,8 @@
         },
         {
           "name": "Brown",
-          "weight": 0.6,
           "yield": 70,
-          "color": 65,
-          "late": false
+          "color": 65
         },
         {
           "name": "Black",
@@ -15047,10 +14766,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.6,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         }
       ],
       "spices": [
@@ -15187,10 +14904,8 @@
         },
         {
           "name": "Amber",
-          "weight": 0.31,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         },
         {
           "name": "Flaked Oats",
@@ -15306,10 +15021,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 3.3,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -15448,10 +15161,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 3.94,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Munich",
@@ -15573,10 +15284,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.19,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Rye",
@@ -15587,10 +15296,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.29,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         }
       ],
       "spices": [
@@ -15722,17 +15429,13 @@
         },
         {
           "name": "Caramalt",
-          "weight": 1.15,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Carafa Special Type 2",
-          "weight": 0.48,
           "yield": 70,
-          "color": 425,
-          "late": false
+          "color": 425
         },
         {
           "name": "Crystal 150",
@@ -15743,10 +15446,8 @@
         },
         {
           "name": "Smoked Warminster",
-          "weight": 0.77,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -15886,10 +15587,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.37,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Crystal 150",
@@ -16628,10 +16327,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 1,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal",
@@ -16649,10 +16346,8 @@
         },
         {
           "name": "Roasted Barley",
-          "weight": 1.5,
           "yield": 74,
-          "color": 300,
-          "late": false
+          "color": 300
         },
         {
           "name": "Smoked Weyermann",
@@ -16965,10 +16660,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.65,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -17234,10 +16927,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.31,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal",
@@ -17255,10 +16946,8 @@
         },
         {
           "name": "Black",
-          "weight": 0.31,
           "yield": 61,
-          "color": 500,
-          "late": false
+          "color": 500
         },
         {
           "name": "Carafa Special Type 1",
@@ -17269,10 +16958,8 @@
         },
         {
           "name": "Flaked Oats",
-          "weight": 0.44,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Crystal 150",
@@ -17561,10 +17248,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 1.88,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Munich",
@@ -17707,10 +17392,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.63,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Carafa Special Type 3",
@@ -17721,10 +17404,8 @@
         },
         {
           "name": "Honey",
-          "weight": 0.7,
           "yield": 91,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -18207,10 +17888,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 7.5,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Wheat",
@@ -18228,10 +17907,8 @@
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.75,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         },
         {
           "name": "Carafa Special Type 1",
@@ -18242,10 +17919,8 @@
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 0.5,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         },
         {
           "name": "Rye",
@@ -18601,10 +18276,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Spring Blend",
-          "weight": 6.79,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -18750,10 +18423,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.38,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Acidulated",
@@ -18916,10 +18587,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.75,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Caramalt",
@@ -18958,17 +18627,13 @@
         },
         {
           "name": "Chocolate",
-          "weight": 0.25,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Smoked",
-          "weight": 0.06,
           "yield": 80,
-          "color": 3,
-          "late": false
+          "color": 3
         },
         {
           "name": "Amber",
@@ -19091,10 +18756,8 @@
       "fermentables": [
         {
           "name": "Pilsner",
-          "weight": 1.69,
           "yield": 83,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -19249,10 +18912,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 2.16,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -19270,10 +18931,8 @@
         },
         {
           "name": "Roasted Barley",
-          "weight": 0.19,
           "yield": 74,
-          "color": 300,
-          "late": false
+          "color": 300
         },
         {
           "name": "Cara Aroma",
@@ -19427,10 +19086,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.25,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -19944,10 +19601,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 6.13,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -20140,10 +19795,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.42,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Caramalt",
@@ -20154,10 +19807,8 @@
         },
         {
           "name": "Acidulated",
-          "weight": 0.07,
           "yield": 59,
-          "color": 3,
-          "late": false
+          "color": 3
         }
       ],
       "spices": [
@@ -20542,10 +20193,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 7.4,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -20754,10 +20403,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.46,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         }
       ],
       "spices": [
@@ -21349,17 +20996,13 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 4.25,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "CaraRed",
-          "weight": 0.63,
           "yield": 74,
-          "color": 20,
-          "late": false
+          "color": 20
         }
       ],
       "spices": [
@@ -21969,10 +21612,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.8,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         }
       ],
       "spices": [
@@ -22479,10 +22120,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.77,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -22999,10 +22638,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 3.78,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -23446,10 +23083,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 4.82,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -23460,10 +23095,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.96,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         }
       ],
       "spices": [
@@ -23608,17 +23241,13 @@
         },
         {
           "name": "Pale Crystal 60",
-          "weight": 0.31,
           "yield": 74,
-          "color": 60,
-          "late": false
+          "color": 60
         },
         {
           "name": "Crystal 120",
-          "weight": 0.13,
           "yield": 72,
-          "color": 120,
-          "late": false
+          "color": 120
         },
         {
           "name": "Dark Crystal 350",
@@ -23629,10 +23258,8 @@
         },
         {
           "name": "Amber",
-          "weight": 0.08,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         },
         {
           "name": "Chocolate",
@@ -23812,10 +23439,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 4.3,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Munich",
@@ -23939,10 +23564,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 4.02,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         }
       ],
       "spices": [
@@ -24058,10 +23681,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 2,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal",
@@ -24185,10 +23806,8 @@
       "fermentables": [
         {
           "name": "Pilsner",
-          "weight": 3.25,
           "yield": 83,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dextrine",
@@ -24344,10 +23963,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 6,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -25269,10 +24886,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.88,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -25847,10 +25462,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 2.75,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Wheat",
@@ -26015,10 +25628,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 2.13,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -26460,10 +26071,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.3,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -26624,10 +26233,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Spring Blend",
-          "weight": 5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -26666,10 +26273,8 @@
         },
         {
           "name": "Flaked Oats",
-          "weight": 0.31,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Smoked",
@@ -27269,17 +26874,13 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 4.69,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Pale Chocolate",
-          "weight": 0.23,
           "yield": 72,
-          "color": 207,
-          "late": false
+          "color": 207
         },
         {
           "name": "Chocolate",
@@ -27290,10 +26891,8 @@
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.35,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         },
         {
           "name": "Flaked Oats",
@@ -27304,10 +26903,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.35,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         }
       ],
       "spices": [
@@ -27407,10 +27004,8 @@
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 1.25,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         },
         {
           "name": "Flaked Oats",
@@ -27421,10 +27016,8 @@
         },
         {
           "name": "Smoked",
-          "weight": 0.63,
           "yield": 80,
-          "color": 3,
-          "late": false
+          "color": 3
         },
         {
           "name": "Crystal",
@@ -27548,10 +27141,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 2.38,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -27562,10 +27153,8 @@
         },
         {
           "name": "Torrified Wheat",
-          "weight": 0.44,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Rye",
@@ -27583,10 +27172,8 @@
         },
         {
           "name": "Amber",
-          "weight": 0.19,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         }
       ],
       "spices": [
@@ -27929,10 +27516,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.58,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Chocolate",
@@ -28120,10 +27705,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 6.35,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Munich",
@@ -28134,10 +27717,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.96,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Special W",
@@ -28148,10 +27729,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.38,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Carafa Special Type 3",
@@ -28381,10 +27960,8 @@
         },
         {
           "name": "Amber",
-          "weight": 0.1,
           "yield": 70,
-          "color": 27,
-          "late": false
+          "color": 27
         },
         {
           "name": "Chocolate",
@@ -28402,10 +27979,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.2,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         }
       ],
       "spices": [
@@ -28538,10 +28113,8 @@
       "fermentables": [
         {
           "name": "Pale Tipple",
-          "weight": 11.1,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -28672,10 +28245,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.8,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -28979,10 +28550,8 @@
         },
         {
           "name": "",
-          "weight": 0.31,
           "yield": null,
-          "color": null,
-          "late": false
+          "color": null
         },
         {
           "name": "Carafa Special Type 3",
@@ -29119,10 +28688,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 0.5,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Black",
@@ -29133,10 +28700,8 @@
         },
         {
           "name": "Roasted",
-          "weight": 0.25,
           "yield": 63,
-          "color": 550,
-          "late": false
+          "color": 550
         }
       ],
       "spices": [
@@ -29267,10 +28832,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.06,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Amber",
@@ -29295,10 +28858,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 0.06,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Rye",
@@ -29788,10 +29349,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Spring Blend",
-          "weight": 4.38,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -29968,10 +29527,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.25,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         }
       ],
       "spices": [
@@ -30262,10 +29819,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 6.25,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Amber",
@@ -30395,10 +29950,8 @@
         },
         {
           "name": "Dark Crystal 350",
-          "weight": 6.56,
           "yield": 72,
-          "color": 350,
-          "late": false
+          "color": 350
         },
         {
           "name": "Carafa Special Type 3",
@@ -30725,10 +30278,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 2.6,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -30746,10 +30297,8 @@
         },
         {
           "name": "Flaked Oats",
-          "weight": 0.8,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal",
@@ -30767,10 +30316,8 @@
         },
         {
           "name": "Carafa Special Type 2",
-          "weight": 0.2,
           "yield": 70,
-          "color": 425,
-          "late": false
+          "color": 425
         }
       ],
       "spices": [
@@ -30901,10 +30448,8 @@
         },
         {
           "name": "Munich",
-          "weight": 0.33,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Flaked Oats",
@@ -30915,10 +30460,8 @@
         },
         {
           "name": "Dark Crystal",
-          "weight": 0.55,
           "yield": 72,
-          "color": 80,
-          "late": false
+          "color": 80
         },
         {
           "name": "Carafa Special Type 1",
@@ -30929,10 +30472,8 @@
         },
         {
           "name": "Carafa Special Type 3",
-          "weight": 0.33,
           "yield": 70,
-          "color": 535,
-          "late": false
+          "color": 535
         }
       ],
       "spices": [
@@ -31070,10 +30611,8 @@
         },
         {
           "name": "Flaked Oats",
-          "weight": 2,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal",
@@ -31211,10 +30750,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 14.5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -31502,10 +31039,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 8.13,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Crystal 150",
@@ -31660,10 +31195,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 2.4,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Caramalt",
@@ -31688,10 +31221,8 @@
         },
         {
           "name": "Crystal 150",
-          "weight": 0.52,
           "yield": 72,
-          "color": 150,
-          "late": false
+          "color": 150
         },
         {
           "name": "Dark Crystal",
@@ -31702,10 +31233,8 @@
         },
         {
           "name": "Rye",
-          "weight": 0.21,
           "yield": 40,
-          "color": 3,
-          "late": false
+          "color": 3
         }
       ],
       "spices": [
@@ -32523,10 +32052,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 3.38,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Caramalt",
@@ -32792,10 +32319,8 @@
       "fermentables": [
         {
           "name": "Pilsner",
-          "weight": 1.3,
           "yield": 83,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -32813,10 +32338,8 @@
         },
         {
           "name": "Pale",
-          "weight": 1.2,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         }
       ],
       "spices": [
@@ -33648,10 +33171,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 6.9,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Crystal",
@@ -33718,41 +33239,6 @@
       "_id": "b6afbb4b-ad32-47fa-b7e9-1bccdeb90b84"
     },
     {
-      "name": "",
-      "description": "Recipe description",
-      "author": "BREWDOG",
-      "boilSize": null,
-      "batchSize": null,
-      "servingSize": 0.355,
-      "steepEfficiency": 50,
-      "steepTime": 20,
-      "mashEfficiency": null,
-      "style": null,
-      "ibuMethod": "tinseth",
-      "fermentables": [],
-      "spices": [],
-      "yeast": [],
-      "mash": {
-        "name": "Mash",
-        "grainTemp": null,
-        "spargeTemp": 76,
-        "ph": null,
-        "notes": "",
-        "steps": []
-      },
-      "bottlingTemp": 0,
-      "bottlingPressure": 0,
-      "primaryDays": 14,
-      "primaryTemp": 20,
-      "secondaryDays": 0,
-      "secondaryTemp": 0,
-      "tertiaryDays": 0,
-      "tertiaryTemp": 0,
-      "agingDays": 14,
-      "agingTemp": 20,
-      "_id": "5e6a9209-2758-4b53-90ad-5834453406e3"
-    },
-    {
       "name": "RIPTIDE",
       "description": "Recipe description",
       "author": "BREWDOG",
@@ -33801,10 +33287,8 @@
         },
         {
           "name": "Dark Crystal 350",
-          "weight": 0.71,
           "yield": 72,
-          "color": 350,
-          "late": false
+          "color": 350
         },
         {
           "name": "Carafa Special Type 3",
@@ -33815,10 +33299,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.54,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Chocolate",
@@ -33836,10 +33318,8 @@
         },
         {
           "name": "Flaked Oats",
-          "weight": 0.54,
           "yield": 72,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -34138,10 +33618,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 6.75,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -34320,10 +33798,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 5.06,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -34827,10 +34303,8 @@
       "fermentables": [
         {
           "name": "Pale Tipple",
-          "weight": 8.32,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -34841,10 +34315,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 1.19,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Dark Crystal",
@@ -34855,10 +34327,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.12,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         }
       ],
       "spices": [
@@ -35136,10 +34606,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 6.57,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -35333,10 +34801,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 2.13,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         },
         {
           "name": "Amber",
@@ -35496,10 +34962,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 7.3,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -35638,10 +35102,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 9.35,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -35834,10 +35296,8 @@
         },
         {
           "name": "Caramalt",
-          "weight": 0.32,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Dark Crystal",
@@ -36166,10 +35626,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 2.81,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Caramalt",
@@ -36440,10 +35898,8 @@
         },
         {
           "name": "Special W",
-          "weight": 0.38,
           "yield": 74,
-          "color": 115,
-          "late": false
+          "color": 115
         },
         {
           "name": "Roasted Barley",
@@ -36771,10 +36227,8 @@
         },
         {
           "name": "Dextrose",
-          "weight": 0.38,
           "yield": 100,
-          "color": 1,
-          "late": false
+          "color": 1
         }
       ],
       "spices": [
@@ -37075,10 +36529,8 @@
       "fermentables": [
         {
           "name": "Pale Tipple",
-          "weight": 10,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Chocolate",
@@ -37096,10 +36548,8 @@
         },
         {
           "name": "Crystal",
-          "weight": 0.94,
           "yield": 74,
-          "color": 30,
-          "late": false
+          "color": 30
         },
         {
           "name": "Flaked Oats",
@@ -37207,10 +36657,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 11.25,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Dark Crystal",
@@ -37228,10 +36676,8 @@
         },
         {
           "name": "Roasted Barley",
-          "weight": 0.5,
           "yield": 74,
-          "color": 300,
-          "late": false
+          "color": 300
         }
       ],
       "spices": [
@@ -37520,10 +36966,8 @@
         },
         {
           "name": "Crystal 120",
-          "weight": 0.23,
           "yield": 72,
-          "color": 120,
-          "late": false
+          "color": 120
         },
         {
           "name": "Dark Crystal 350",
@@ -37759,10 +37203,8 @@
       "fermentables": [
         {
           "name": "Pale",
-          "weight": 5.3,
           "yield": 80,
-          "color": 4,
-          "late": false
+          "color": 4
         }
       ],
       "spices": [
@@ -38478,10 +37920,8 @@
       "fermentables": [
         {
           "name": "Extra Pale Maris Otter",
-          "weight": 3.25,
           "yield": 82,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Caramalt",
@@ -38626,10 +38066,8 @@
         },
         {
           "name": "Carafa Special Type 1",
-          "weight": 0.48,
           "yield": 70,
-          "color": 340,
-          "late": false
+          "color": 340
         },
         {
           "name": "Chocolate",
@@ -38640,17 +38078,13 @@
         },
         {
           "name": "Munich",
-          "weight": 1.92,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Smoked Warminster",
-          "weight": 0.48,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -39387,10 +38821,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 3.5,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -39694,10 +39126,8 @@
       "fermentables": [
         {
           "name": "Extra Pale",
-          "weight": 2.69,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Wheat",
@@ -39859,10 +39289,8 @@
         },
         {
           "name": "Torrified Wheat",
-          "weight": 0.69,
           "yield": 78,
-          "color": 2,
-          "late": false
+          "color": 2
         }
       ],
       "spices": [
@@ -39986,10 +39414,8 @@
         },
         {
           "name": "Wheat",
-          "weight": 2.81,
           "yield": 82,
-          "color": 2,
-          "late": false
+          "color": 2
         },
         {
           "name": "Munich",
@@ -40120,31 +39546,23 @@
       "fermentables": [
         {
           "name": "Organic Lager",
-          "weight": 1.13,
           "yield": 83,
-          "color": 1,
-          "late": false
+          "color": 1
         },
         {
           "name": "Organic Caramalt",
-          "weight": 0.28,
           "yield": 71,
-          "color": 15,
-          "late": false
+          "color": 15
         },
         {
           "name": "Organic Munich",
-          "weight": 2.7,
           "yield": 82,
-          "color": 6,
-          "late": false
+          "color": 6
         },
         {
           "name": "Organic Chocolate",
-          "weight": 0.23,
           "yield": 65,
-          "color": 340,
-          "late": false
+          "color": 340
         }
       ],
       "spices": [
@@ -40416,6 +39834,1124 @@
       "agingDays": 14,
       "agingTemp": 20,
       "_id": "4779a768-33cc-413e-8051-0d07674a785f"
+    }
+  ],
+  "fermentables": [
+    {
+      "name": "My Specialty Grain",
+      "yield": "78",
+      "color": "2",
+      "_id": "b0f6158e-3652-47fa-93e2-679af5366247"
+    },
+    {
+      "name": "Extra Pale",
+      "yield": "82",
+      "color": 2
+    },
+    {
+      "name": "Caramalt",
+      "yield": "71",
+      "color": 15
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Flaked Oats",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Dark Crystal 350",
+      "yield": 72,
+      "color": 350
+    },
+    {
+      "name": "Chocolate",
+      "yield": 65,
+      "color": 340
+    },
+    {
+      "name": "Black",
+      "yield": 61,
+      "color": 500
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Special W",
+      "yield": 74,
+      "color": 115
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Torrified Wheat",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Pale Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Peated",
+      "yield": 83,
+      "color": 3
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Brown",
+      "yield": 70,
+      "color": 65
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Smoked Peat",
+      "yield": 81,
+      "color": 4
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Dark Crystal 350",
+      "yield": 72,
+      "color": 350
+    },
+    {
+      "name": "Extra Pale Spring Blend",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Brown",
+      "yield": 70,
+      "color": 65
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Chocolate",
+      "yield": 65,
+      "color": 340
+    },
+    {
+      "name": "Carafa Special Type 2",
+      "yield": 70,
+      "color": 425
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Maris Otter",
+      "yield": 83,
+      "color": 4
+    },
+    {
+      "name": "Popcorn",
+      "yield": 0,
+      "color": 0
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Rye",
+      "yield": 40,
+      "color": 3
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Roasted Barley",
+      "yield": 74,
+      "color": 300
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Brown",
+      "yield": 70,
+      "color": 65
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "DRC",
+      "yield": 74,
+      "color": 115
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Lager",
+      "yield": 83,
+      "color": 1
+    },
+    {
+      "name": "Pilsner",
+      "yield": 83,
+      "color": 2
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Propino Pale",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Propino Pale",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Acidulated",
+      "yield": 59,
+      "color": 3
+    },
+    {
+      "name": "Cara Aroma",
+      "yield": 75,
+      "color": 150
+    },
+    {
+      "name": "Caramunich",
+      "yield": 72,
+      "color": 50
+    },
+    {
+      "name": "Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Propino Pale",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Dextrine",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Special W",
+      "yield": 74,
+      "color": 115
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Acidulated",
+      "yield": 59,
+      "color": 3
+    },
+    {
+      "name": "Special W",
+      "yield": 74,
+      "color": 115
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Smoked Weyermann",
+      "yield": 80,
+      "color": 2
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Pinhead Oats",
+      "yield": 27,
+      "color": 1
+    },
+    {
+      "name": "CaraHell",
+      "yield": 74,
+      "color": 11
+    },
+    {
+      "name": "Cara Aroma",
+      "yield": 75,
+      "color": 150
+    },
+    {
+      "name": "Roasted",
+      "yield": 63,
+      "color": 550
+    },
+    {
+      "name": "Peated",
+      "yield": 83,
+      "color": 3
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Chocolate",
+      "yield": 65,
+      "color": 340
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Chocolate",
+      "yield": 65,
+      "color": 340
+    },
+    {
+      "name": "Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Chocolate",
+      "yield": 65,
+      "color": 340
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Smoked",
+      "yield": 80,
+      "color": 3
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Black",
+      "yield": 61,
+      "color": 500
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Smoked Weyermann",
+      "yield": 80,
+      "color": 2
+    },
+    {
+      "name": "Brown",
+      "yield": 70,
+      "color": 65
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Carafa Special Type 2",
+      "yield": 70,
+      "color": 425
+    },
+    {
+      "name": "Smoked Warminster",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Roasted Barley",
+      "yield": 74,
+      "color": 300
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Black",
+      "yield": 61,
+      "color": 500
+    },
+    {
+      "name": "Flaked Oats",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Honey",
+      "yield": 91,
+      "color": 2
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Extra Pale Spring Blend",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Chocolate",
+      "yield": 65,
+      "color": 340
+    },
+    {
+      "name": "Smoked",
+      "yield": 80,
+      "color": 3
+    },
+    {
+      "name": "Pilsner",
+      "yield": 83,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Roasted Barley",
+      "yield": 74,
+      "color": 300
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Acidulated",
+      "yield": 59,
+      "color": 3
+    },
+    {
+      "name": "CaraRed",
+      "yield": 74,
+      "color": 20
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Pale Crystal 60",
+      "yield": 74,
+      "color": 60
+    },
+    {
+      "name": "Crystal 120",
+      "yield": 72,
+      "color": 120
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Pilsner",
+      "yield": 83,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale Spring Blend",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Flaked Oats",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Pale Chocolate",
+      "yield": 72,
+      "color": 207
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Smoked",
+      "yield": 80,
+      "color": 3
+    },
+    {
+      "name": "Torrified Wheat",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Amber",
+      "yield": 70,
+      "color": 27
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Pale Tipple",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Roasted",
+      "yield": 63,
+      "color": 550
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Extra Pale Spring Blend",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Dark Crystal 350",
+      "yield": 72,
+      "color": 350
+    },
+    {
+      "name": "Flaked Oats",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Carafa Special Type 2",
+      "yield": 70,
+      "color": 425
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Dark Crystal",
+      "yield": 72,
+      "color": 80
+    },
+    {
+      "name": "Carafa Special Type 3",
+      "yield": 70,
+      "color": 535
+    },
+    {
+      "name": "Flaked Oats",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Crystal 150",
+      "yield": 72,
+      "color": 150
+    },
+    {
+      "name": "Rye",
+      "yield": 40,
+      "color": 3
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Pilsner",
+      "yield": 83,
+      "color": 2
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Dark Crystal 350",
+      "yield": 72,
+      "color": 350
+    },
+    {
+      "name": "Flaked Oats",
+      "yield": 72,
+      "color": 2
+    },
+    {
+      "name": "Pale Tipple",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Special W",
+      "yield": 74,
+      "color": 115
+    },
+    {
+      "name": "Dextrose",
+      "yield": 100,
+      "color": 1
+    },
+    {
+      "name": "Pale Tipple",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Crystal",
+      "yield": 74,
+      "color": 30
+    },
+    {
+      "name": "Roasted Barley",
+      "yield": 74,
+      "color": 300
+    },
+    {
+      "name": "Crystal 120",
+      "yield": 72,
+      "color": 120
+    },
+    {
+      "name": "Pale",
+      "yield": 80,
+      "color": 4
+    },
+    {
+      "name": "Extra Pale Maris Otter",
+      "yield": 82,
+      "color": 1
+    },
+    {
+      "name": "Carafa Special Type 1",
+      "yield": 70,
+      "color": 340
+    },
+    {
+      "name": "Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Smoked Warminster",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Torrified Wheat",
+      "yield": 78,
+      "color": 2
+    },
+    {
+      "name": "Wheat",
+      "yield": 82,
+      "color": 2
+    },
+    {
+      "name": "Organic Lager",
+      "yield": 83,
+      "color": 1
+    },
+    {
+      "name": "Organic Caramalt",
+      "yield": 71,
+      "color": 15
+    },
+    {
+      "name": "Organic Munich",
+      "yield": 82,
+      "color": 6
+    },
+    {
+      "name": "Organic Chocolate",
+      "yield": 65,
+      "color": 340
     }
   ]
 }
